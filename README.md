@@ -22,7 +22,14 @@ This is a Python-based application that enables **gesture-based control** using 
    git clone https://github.com/rc94087/BEACON-OF-HOPE.git
    cd BEACON-OF-HOPE
 
-pip install -r requirements.txt
+2. **Install Dependencies**
+     ```bash
+   pip install -r requirements.txt
 
-python main.py
+
+3. **Run the Application**
+   ```bash
+   python main.py
+
+ 
 
