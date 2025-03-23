@@ -15,6 +15,13 @@ This is a Python-based application that enables **gesture-based control** using 
 - **MediaPipe** (For hand and face tracking)
 - **PyAutoGUI** (For system interaction)
 
+## Installation  
+
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/rc94087/BEACON-OF-HOPE.git
+   cd BEACON-OF-HOPE
+
 pip install -r requirements.txt
 
 python main.py
